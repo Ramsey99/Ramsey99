@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media" align="center" style="width: 100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Anuradha Adhikari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
