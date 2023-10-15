@@ -10,15 +10,15 @@
 <hr>
 
 <h2 align="left">🔭 I'm currently working on</h2>
- • 🚌 Real-time bus tracking system. I am handling the admin portal with another teammate.
- • 💼 My old projects
- • 📂 My portfolio
+ • 🚌 Real-time bus tracking system. I am handling the admin portal with another teammate.<br>
+ • 💼 My old projects<br> 
+ • 📂 My portfolio<br> 
 
 <h2 align="left">🌱 I'm currently learning</h2>
-• ⚛️ React 
-• 📦 MongoDB
-• ☁️ AWS
-• 🐍 Python
+• ⚛️ React <br> 
+• 📦 MongoDB<br> 
+• ☁️ AWS<br> 
+• 🐍 Python<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
