@@ -25,7 +25,7 @@
 # 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,python,git,github,aws,flask,linux,react,mysql,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,python,git,github,aws,flask,linux,react,mysql,mongodb,vscode" />
   </a>
 </p>
 
@@ -36,9 +36,6 @@
   <a target="_blank"href="https://www.linkedin.com/in/anuradha-adhikari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
   <a href="mailto:anujobadhikari@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-  <a target="_blank"href="https://www.linkedin.com/in/anuradha-adhikari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
