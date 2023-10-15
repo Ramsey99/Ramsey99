@@ -36,14 +36,13 @@
   <a target="_blank"href="https://instagram.com/anuadhikari1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
   <a target="_blank"href="https://www.linkedin.com/in/anuradha-adhikari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="mailto:anujobadhikari@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
-
 </p>
 
 <hr>
 
-# My Stats
+# 📊 My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact" alt="ramsey99" /></p>
+<p align="center"><img src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en" alt="ramsey99" /></p>
 
