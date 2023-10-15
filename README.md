@@ -9,7 +9,7 @@
 
 <hr>
 
-<h2 align="left">🔭 I'm currently working on</h2>
+# 🔭 I'm currently working on
  • 🚌 Real-time bus tracking system. I am handling the admin portal with another teammate<br>
  • 💼 My old projects<br> 
  • 📂 My portfolio<br> 
