@@ -29,6 +29,8 @@
   </a>
 </p>
 
+<hr>
+
 # Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/anuradha-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-adhikari" height="30" width="40" /></a>
