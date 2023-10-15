@@ -5,7 +5,7 @@
 <h1 align="center">Hi there👋, I'm Anuradha Adhikari</h1>
 <h2 align="center">👨‍💻A passionate Full-stack Web Developer, Designer, and Tech enthusiast from India🌐</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
 
 - 🔭 I’m currently working on **real-time bus tracking system. I am handling the admin portal with another teammate.**
 
