@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="cover">
   <img src="/git/Silver Light Pink Light Green Abstract Color and Style Video Background.gif" width="100"/>
 </div>
 
