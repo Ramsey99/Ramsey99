@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="![headbg](https://github.com/Ramsey99/Ramsey99/assets/106548408/6a10771d-4113-441b-8965-bc4a2361e626)" width="600" height="300"/>
+  <img src="![headbg](https://github.com/Ramsey99/Ramsey99/assets/106548408/6a10771d-4113-441b-8965-bc4a2361e626)" width="800" height="300"/>
 </div>
 
 <h1 align="center">Hi there👋, I'm Anuradha Adhikari</h1>
