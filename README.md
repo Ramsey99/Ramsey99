@@ -22,7 +22,7 @@
 
 <hr>
   
-# Languages and Tools:
+# 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,html,css,python,git,github,aws,flask,linux,react,mysql,mongodb,vscode" />
@@ -31,12 +31,16 @@
 
 <hr>
 
-# Connect with me
+# 🤝 Connect with me
 <p align="left">
+<a href="https://gmail.com/in/anuradha-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-adhikari" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/anuradha-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-adhikari" height="30" width="40" /></a>
-<a href="https://fb.com/anu.adhikari.5680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anu.adhikari.5680" height="30" width="40" /></a>
+
 <a href="https://instagram.com/anuadhikari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuadhikari1" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/adhikarianuradha336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhikarianuradha336" height="30" width="40" /></a>
+
 <a href="https://discord.gg/1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1424" height="30" width="40" /></a>
 </p>
 
