@@ -43,11 +43,8 @@
 
 # 📊 My Stats
 
-<a href="https://github.com/ramsey99/github-readme-stats">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ramsey99&theme="sunset-gradient">
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ramsey99" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsey99&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=dracula" alt="ramsey99" /></p>
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ramsey99&theme=sunset-gradient&border_radius=4.8&card_width=478" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&theme=dracula" alt="ramsey99" /></p>
