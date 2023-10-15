@@ -36,11 +36,10 @@
   <a target="_blank"href="https://www.linkedin.com/in/anuradha-adhikari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
   <a href="mailto:anujobadhikari@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-<a href="https://www.linkedin.com/in/anuradha-adhikari/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Anuradha | LinkedIn” width=”21px”/></a>
 
-<a href="https://www.linkedin.com/in/anuradha-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-adhikari" height="30" width="40" /></a>
+  <a target="_blank"href="https://www.instagram.com/in/anuadhikari1/"><img src="https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2F" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/anuadhikari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuadhikari1" height="30" width="40" /></a>
 
