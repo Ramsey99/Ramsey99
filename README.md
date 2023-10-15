@@ -1,5 +1,5 @@
-<div align="center">
-    <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media" align="center" style="width: 100%" />
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif?cid=ecf05e47s0423ksh3wk4gy3czuyeqh4gzuxumktn5jupb8e4&ep=v1_gifs_related&rid=giphy.gif&ct=ts)" width="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anuradha Adhikari</h1>
