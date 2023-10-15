@@ -25,7 +25,7 @@
 # Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,html5,css3,python,git,was,linux" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,python,git,was,linux" />
   </a>
 </p>
 
