@@ -7,6 +7,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
 
+<hr>
+
 - 🔭 I’m currently working on **real-time bus tracking system. I am handling the admin portal with another teammate.**
 
 - 🌱 I’m currently learning **React, Python & MongoDB**
