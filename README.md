@@ -55,4 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true" />
 </picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&" alt="ramsey99" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ramsey99&theme=sunset-gradient&border_radius=4.8&card_width=478" alt="GitHub Streak" /></a>
