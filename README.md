@@ -43,11 +43,16 @@
 
 # 📊 My Stats
 
-<a href="https://github.com/itaditya#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramsey99&repo=PerformanceSandBox&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/itaditya#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true" />
+</picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&" alt="ramsey99" /></p>
