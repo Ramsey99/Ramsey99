@@ -38,14 +38,8 @@
   <a href="mailto:anujobadhikari@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  <a target="_blank"href="https://www.instagram.com/in/anuadhikari1/"><img src="https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2F" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/anuradha-adhikari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/anuadhikari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuadhikari1" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/adhikarianuradha336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhikarianuradha336" height="30" width="40" /></a>
-
-<a href="https://discord.gg/1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1424" height="30" width="40" /></a>
 </p>
 
 <hr>
