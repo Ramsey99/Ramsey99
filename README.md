@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="/git/Silver Light Pink Light Green Abstract Color and Style Video Background.gif" width="600" height="300"/>
+  <img src="git/headbg.gif" width="600" height="300"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anuradha Adhikari</h1>
