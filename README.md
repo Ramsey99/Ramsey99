@@ -1,5 +1,5 @@
-<p align=”center”>
-  <img src="https://github.com/Ramsey99/Ramsey99/assets/106548408/6a10771d-4113-441b-8965-bc4a2361e626" width="700" height="200" alt="my banner"/>
+<p align="center">
+  <img src="https://github.com/Ramsey99/Ramsey99/assets/106548408/6a10771d-4113-441b-8965-bc4a2361e626" width="850" height="300" alt="my banner"/>
 </p>
 
 <h1 align="center">Hi there👋, I'm Anuradha Adhikari</h1>
