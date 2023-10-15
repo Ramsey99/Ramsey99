@@ -44,10 +44,10 @@
 # 📊 My Stats
 
 <a href="https://github.com/ramsey99/github-readme-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramsey99&theme=sunset-gradient&border_radius=4.8&card_width=478">
 <img alt="Anuradha Adhikari's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=ramsey99&theme=sunset-gradient&border_radius=4.8&card_width=478">
-</picture>
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ramsey99&theme=sunset-gradient&border_radius=4.8&card_width=478" alt="GitHub Streak" /></a>
