@@ -9,6 +9,7 @@
 
 <hr>
 
+<p align="left">🔭I'm currently working on</p>
 - 🔭 I’m currently working on **real-time bus tracking system. I am handling the admin portal with another teammate.**
 
 - 🌱 I’m currently learning **React, Python & MongoDB**
