@@ -32,8 +32,8 @@
 <hr>
 
 # 🤝 Connect with me
-<p align="left">
-<a href="https://gmail.com/in/anuradha-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-adhikari" height="30" width="40" /></a>
+<p align="center">
+<a href=”https://www.linkedin.com/in/anuradha-adhikari/"><img align=”left” src=”https://raw.githubusercontent.com/Ramsey99/Ramsey99/main/images/linkedin.svg" alt=”Anuradha | LinkedIn” width=”21px”/></a>
 
 <a href="https://linkedin.com/in/anuradha-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-adhikari" height="30" width="40" /></a>
 
@@ -44,7 +44,9 @@
 <a href="https://discord.gg/1424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1424" height="30" width="40" /></a>
 </p>
 
+<hr>
 
+# My Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact" alt="ramsey99" /></p>
 
