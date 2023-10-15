@@ -14,7 +14,7 @@
  • 💼 My old projects<br> 
  • 📂 My portfolio<br> 
 
-<h2 align="left">🌱 I'm currently learning</h2>
+# 🌱 I'm currently learning
 • ⚛️ React <br> 
 • 📦 MongoDB<br> 
 • ☁️ AWS<br> 
