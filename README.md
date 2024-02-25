@@ -34,7 +34,7 @@
   <a target="_blank"href="https://instagram.com/anuadhikari1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
   <a target="_blank"href="https://www.linkedin.com/in/anuradha-adhikari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a target="_blank"href="https://leetcode.com/anuradhaadhikari336"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
-  <a href="mailto:anujobadhikari@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
+  <a target="_blank"href="mailto:anujobadhikari@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
 <hr>
