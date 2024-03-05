@@ -14,11 +14,11 @@
  • 📂 My College project<br> 
 
 # 🌱 I'm currently learning
-• ⚛️ React <br> 
-• 📦 MongoDB<br> 
-• ☁️ AWS<br> 
+•  Node.js <br> 
+•  MongoDB<br> 
+•  Designing<br> 
 
-# 📬 How to reach me : anujobadhikari@gmail.com
+# 📬 How to reach me: anujobadhikari@gmail.com
 
 <hr>
   
