@@ -2,8 +2,8 @@
   <img src="https://github.com/Ramsey99/Ramsey99/assets/106548408/6a10771d-4113-441b-8965-bc4a2361e626" width="750" height="250" alt="my banner"/>
 </p>
 
-<h1 align="center">Hi there👋, I'm Anuradha Adhikari</h1>
-<h2 align="center">👨‍💻A passionate Full-stack Web Developer, Designer, and Tech enthusiast from India🌐</h2>
+<h2 align="center">Hi👋, I'm Anuradha Adhikari</h2>
+<h3 align="center">👨‍💻A CSE undergrad, self-taught Full-stack Web Developer, Designer, and Tech enthusiast from India🌐</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
 
