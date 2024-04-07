@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/RaniAdhikari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anuradha-adhikari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -18,8 +18,6 @@
 - 👯 I’m making the world better by PRs
 - 🤝 I’m looking for help with Full Stack mentors
 - 📫 How to reach me: anujobadhikari@gmail.com
-
-<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,10 +42,9 @@
 
 <hr>
 
-# 📊 My Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=codeSTACKr" alt="ramsey99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="ramsey99" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ramsey99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=dracula" alt="ramsey99" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&theme=dracula" alt="ramsey99" /></p>-->
