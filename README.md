@@ -42,8 +42,8 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=codeSTACKr" alt="ramsey99" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="ramsey99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=shadow_green" alt="ramsey99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="ramsey99" /></p>
 
 
 
