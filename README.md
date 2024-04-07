@@ -26,6 +26,7 @@
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" width="40" height="40"/> </a> 
 <a href="https://www.java.com/download/ie_manual.jsp" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org/downloads/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="python" width="40" height="40"/> </a>
 
 
 <h3 align="left">Frameworks and Tools:</h3>
