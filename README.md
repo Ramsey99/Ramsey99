@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently learning Full Stack Development using Next.js, MongoDB, & Flutter
-- 👯 I’m making the world better by PRs
+- 👯 I’m looking to collaborate on Full Stack Projects
 - 🤝 I’m looking for help with Full Stack mentors
 - 📫 How to reach me: anujobadhikari@gmail.com
 
