@@ -14,9 +14,8 @@
 <hr>
 
 - 🔭 I’m currently working on a MERN Project
-- 🌱 I’m currently learning Full Stack Development using Next.js, MongoDB, & Flutter
-- 👯 I’m looking to collaborate on Full Stack Projects
-- 🤝 I’m looking for help with Full Stack mentors
+- 🌱 I’m currently working as an open-source contributor at GirlScript Summer of Code
+- 👯 I’m looking to collaborate on Full Stack Projects and web designer projects
 - 📫 How to reach me: anujobadhikari@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
