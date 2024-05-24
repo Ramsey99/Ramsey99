@@ -55,5 +55,5 @@
 <!--Statics/Tropht-->
 <h1 align="left">GitHub Statistics 📃</h1>
 <a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Ramsey99&theme=darkhub&"></a>
-<a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 40%"/>
-<a href ="" target ="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=Ramsey99&theme=bear&show_icons=true&hide_border=true&count_private=true" width = 40%"/>
+<a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 50%"/>
+<a href ="" target ="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=Ramsey99&theme=bear&show_icons=true&hide_border=true&count_private=true" width = 50%"/>
