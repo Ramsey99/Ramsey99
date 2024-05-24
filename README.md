@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
-<h2>About Me🙋‍♂️</h2> <img align = 'right' src="https://github.com/Ramsey99/Ramsey99/blob/main/git/octocat-1716565150084.png" width="170" />
+<h2>About Me<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40"></h2> <img align = 'right' src="https://github.com/Ramsey99/Ramsey99/blob/main/git/octocat-1716565150084.png" width="170" />
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently working as an open-source contributor at GirlScript Summer of Code
