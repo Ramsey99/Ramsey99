@@ -45,7 +45,7 @@
 <a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/figma.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<hr>
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=gotham" alt="ramsey99" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Anuradha's streak" /></p>
