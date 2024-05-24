@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45"width="45" /> I'm Anuradha</h1>
+<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm Anuradha</h1>
 <!--<h3 align="center">👨‍💻CSE'24 undergrad, self-taught Full-stack Web Developer, Designer, <br> and Tech enthusiast</h3>-->
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38"></h2>
+<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
 <p align="center">
 <a href="https://twitter.com/RaniAdhikari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
