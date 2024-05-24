@@ -55,6 +55,10 @@
 <!--Statics/Tropht-->
 <h1 align="left">GitHub Statistics 📃</h1><img width=100% src="https://github-profile-trophy.vercel.app/?username=Ramsey99&theme=darkhub"></a>
 
+<a href="https://github.com/Ramsey99/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ramsey99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+<a href="https://github.com/Ramsey99/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsey99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 <a href="https://github.com/Ramsey99/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=gotham" alt="ramsey99"/></a>
  <a href="https://github.com/Ramsey99/github-readme-stats"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Anuradha's streak" /></a>
 
