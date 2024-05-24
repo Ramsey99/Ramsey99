@@ -14,9 +14,9 @@
 <a href="https://instagram.com/anuadhikari1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
 
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
-
+<!--view count-->
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=Ramsey99&&style=for-the-badge" align="center" /> </p>
+<!--line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <img align = 'right' src="https://github.com/Ramsey99/Ramsey99/blob/main/git/octocat-1716565150084.png" width="300" height="350" />
