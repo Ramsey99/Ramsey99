@@ -1,5 +1,10 @@
 <h1 align="center">Hi👋, I'm Anuradha</h1>
-<h3 align="center">👨‍💻CSE'24 undergrad, self-taught Full-stack Web Developer, Designer, <br> and Tech enthusiast</h3>
+<!--<h3 align="center">👨‍💻CSE'24 undergrad, self-taught Full-stack Web Developer, Designer, <br> and Tech enthusiast</h3>-->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=CSE'24+Undergrad;Web+Developer;Open-Source+Contributor;Tech+Blogger;UI+Designer)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
 
