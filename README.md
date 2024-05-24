@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
-<h2>About Me🙋‍♂️</h2> <img align = 'right' src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg" width="150" />
+<h2>About Me🙋‍♂️</h2> <img align = 'right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="150" />
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently working as an open-source contributor at GirlScript Summer of Code
