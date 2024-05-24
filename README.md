@@ -42,7 +42,6 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ramsey99&show_icons=true&locale=en&theme=gotham" alt="ramsey99" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Anuradha's streak" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsey99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ramsey99" /></p>
-<p><img align="center" src="https://github.com/ramsey99/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuradha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsey99&show_icons=true&locale=en&layout=compact&theme=gotham"/></a>
-</p>
+
