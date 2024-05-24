@@ -19,12 +19,14 @@
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
+## About Me🙋‍♂️
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently working as an open-source contributor at GirlScript Summer of Code
 - 👯 I’m looking to collaborate on Full Stack Projects and web designer projects
 - 📫 How to reach me: anujobadhikari@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
+<p align="left"> 
 <p align="left"> 
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" width="40" height="40"/> </a> 
 <a href="https://www.java.com/download/ie_manual.jsp" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" width="40" height="40"/> </a> 
