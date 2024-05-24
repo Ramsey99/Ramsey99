@@ -17,8 +17,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsey99&label=Profile%20views&color=0e75b6&style=flat" alt="ramsey99" /> </p>
 
-
-<hr>
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently working as an open-source contributor at GirlScript Summer of Code
