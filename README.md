@@ -62,8 +62,8 @@
 <a href ="" target ="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=Ramsey99&theme=bear&show_icons=true&hide_border=true&count_private=true" width = 50%"/>
 <a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 45%"/>
 
-<!--Thank You
-<p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></p> -->
+<!--Thank You-->
+<p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></p> 
 
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<!--🦶FOOTER
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">--> 
