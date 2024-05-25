@@ -15,12 +15,12 @@
 
 </p>
 <!--view count-->
-<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=Ramsey99&&style=for-the-badge" align="center" /> </p>
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=Ramsey99&&style=for-the-badge" /> </p>
 <!--line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img align = 'right' src="https://github.com/Ramsey99/Ramsey99/blob/main/git/octocat-1716565150084.png" width="300" height="350" />
-<h1>About Me<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40"></h1> 
+<img align = 'right' src="https://github.com/Ramsey99/Ramsey99/blob/main/git/octocat-1716565150084.png" width="300" height="400" />
+<h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45">About Me</h1> 
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently working as an open-source contributor at GirlScript Summer of Code
@@ -28,7 +28,7 @@
 - 📫 How to reach me: anujobadhikari@gmail.com
 
 <!--Languages & tools-->
-<h1> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"></h1>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
 <p align="left"> 
 <p align="left"> 
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" width="40" height="40"/> </a> 
@@ -50,10 +50,12 @@
 <a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/figma.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
+<!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!--Statics/Tropht-->
-<h1 align="left">GitHub Statistics 📃</h1>
-<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Ramsey99&theme=darkhub&"></a>
-<a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 45%"/>
+<!--Statics/Trophy-->
+<h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Statistics </h1>
+<a href="https://github.com/Ramsey99/github-readme-stats"><img width=90% src="https://github-profile-trophy.vercel.app/?username=Ramsey99&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
 <a href ="" target ="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=Ramsey99&theme=bear&show_icons=true&hide_border=true&count_private=true" width = 50%"/>
+<a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 45%"/>
+
