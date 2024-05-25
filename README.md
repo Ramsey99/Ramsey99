@@ -1,4 +1,5 @@
 <h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/anuradha-adhikari/" target="_blank">Anuradha</h1>
+<img align = 'left' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="90"/>
   
 <div align="center">
 
@@ -7,7 +8,6 @@
 </div>
 
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
-<img align = 'left' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="90"/>
 <img align = 'right' src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="100">
 
 <p align="center">
