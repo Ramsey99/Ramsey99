@@ -55,7 +55,7 @@
 
 <!--Statics/Trophy-->
 <h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Statistics </h1>
-<a href="https://github.com/Ramsey99/github-readme-stats"><img width=90% src="https://github-profile-trophy.vercel.app/?username=Ramsey99&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
+<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Ramsey99&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
 <a href ="" target ="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=Ramsey99&theme=bear&show_icons=true&hide_border=true&count_private=true" width = 50%"/>
 <a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 45%"/>
 
