@@ -62,6 +62,11 @@
 <a href ="" target ="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=Ramsey99&theme=bear&show_icons=true&hide_border=true&count_private=true" width = 50%"/>
 <a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 45%"/>
 
+<!--Holopin-->
+<h1 align="left">🦖 Holopin </h1>
+
+[![An image of @durgesh4993's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Ramsey99)](https://holopin.io/@Ramsey99)
+
 <!--Thank You-->
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></p> 
 
