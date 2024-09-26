@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently working as a Part-time React.js Developer
-- 👯 I’m looking to collaborate on Full Stack Projects and web designer projects
+- 👯 I’m looking to collaborate on Full Stack Projects and web design projects
 - 📫 How to reach me: anujobadhikari@gmail.com
 
 <!--Languages & tools-->
