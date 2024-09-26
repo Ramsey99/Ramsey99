@@ -26,7 +26,7 @@
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45">About Me</h1> 
 
 - 🔭 I’m currently working on a MERN Project
-- 🌱 I’m currently working as an open-source contributor at GirlScript Summer of Code
+- 🌱 I’m currently working as a Part-time React.js Developer
 - 👯 I’m looking to collaborate on Full Stack Projects and web designer projects
 - 📫 How to reach me: anujobadhikari@gmail.com
 
