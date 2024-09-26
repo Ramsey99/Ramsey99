@@ -63,7 +63,7 @@
 <a href ="" target ="_blank"><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Ramsey99&theme=bear&hide_border=true" width = 45%"/>
 
 <!--Holopin-->
-## 🦖 Holopin 
+<h1 align="left">🦖 Holopin</h1>
 
 [![](https://holopin.me/Ramsey99)](https://holopin.io/@Ramsey99)
 
