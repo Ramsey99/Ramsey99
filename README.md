@@ -69,7 +69,7 @@
 
 <!--Thank You
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></p> -->
-<h1 align="center">Thank You for Visiting and Supporting 🫶</h1>
+<h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
 
 <!--🦶FOOTER
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">--> 
