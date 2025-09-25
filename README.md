@@ -26,7 +26,7 @@
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45">About Me</h1> 
 
 - 🔭 I’m currently working on a personal MERN Project
-- 🌱 I’m looking for new opportunities as a Front-end Developer
+- 🌱 I’m looking for new opportunities as a Full Stack Developer
 - 👯 I’m looking to collaborate on Full Stack Projects and web design projects
 - 📫 How to reach me: anujobadhikari@gmail.com
 
