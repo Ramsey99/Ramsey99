@@ -30,38 +30,54 @@
 - 👯 Do you have something interesting and challenging in mind where I can build something new, as well as myself<img src="https://twemoji.maxcdn.com/v/latest/svg/2753.svg" width="18" alt="❓" />
 - 📫 How to reach me: anujobadhikari@gmail.com
 
-<!--Languages & tools-->
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
-<p align="left"> 
-<p align="left"> 
-<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.java.com/download/ie_manual.jsp" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a> 
-<!-- <a href="https://www.python.org/downloads/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a> -->
-<a href="https://html.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="supabase" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="next.js" width="40" height="40"/> </a> 
-<a href="/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux" width="40" height="40"/> </a> 
- 
-<!-- <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/flask.svg" alt="flask" width="40" height="40"/> </a>  -->
-<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="50" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt="aws" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/figma.svg" alt="figma" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" alt="netlify" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/></a>
+<!-- Languages & Tools -->
+<h1>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38">
+  Languages and Tools
+</h1>
 
+<p align="left">
+
+<!-- Core Languages -->
+<a href="https://www.java.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/></a>
+
+<!-- Frontend -->
+<a href="https://reactjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React.js" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite" width="40" height="40"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>
+<a href="https://mui.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MUI" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/></a>
+
+<!-- Backend -->
+<a href="https://nodejs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="40" height="40"/></a>
+
+<!-- Database -->
+<a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/></a>
+
+<!-- BaaS / Auth -->
+<a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40"/></a>
+
+<!-- Tools -->
+<a href="https://github.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40" height="40"/></a>
+<a href="https://www.netlify.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" alt="Netlify" width="40" height="40"/></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/></a>
+
+<!-- Design -->
+<a href="https://www.figma.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/></a>
 </p>
+
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
