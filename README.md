@@ -25,9 +25,9 @@
 <img align = 'right' src="https://github.com/Ramsey99/Ramsey99/blob/main/git/octocat-1716565150084.png" width="300" height="400" />
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45">About Me</h1> 
 
-- 🔭 I’m currently working on a personal MERN Project
-- 🌱 I’m looking for new opportunities as a Full Stack Developer
-- 👯 I’m looking to collaborate on Full Stack Projects and web design projects
+- 🌱 I’m currently learning to build something crazy
+- 🔭 As for daily life, working as a <strong>MERN developer</strong>
+- 👯 Do you have something interesting and challenging in mind where I can build something new, as well as myself<img src="https://twemoji.maxcdn.com/v/latest/svg/2753.svg" width="18" alt="❓" />
 - 📫 How to reach me: anujobadhikari@gmail.com
 
 <!--Languages & tools-->
